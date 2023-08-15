@@ -1,0 +1,14 @@
+Text:="|<>*200$54.1zzk01zy01zzk01zy0U" ; OK
+Text.="|<>*200$56.0Tz000Tzk07zk007zw2" ; OK
+Text.="|<>*200$51.1zw007zw0DzU00zzUU" ; OK
+Text.="|<>*200$53.1zzU03zz03zz007zy2" ; OK
+Text.="|<>*200$48.0zxzUDzU0zxzUDzUU" ; OK
+
+Text.="|<>*200$61.01zzU0zzU000zzk0TzU08"
+Text.="|<>*200$62.1zzk00Dzz00Tzw003zzk2"
+Text.="|<>*200$59.07zk00zzU00Dzk01zz02"
+Text.="|<>*200$58.0Tw00Dzz001zs00zzs08"
+
+Text.="|<>*200$47.7zw01zzUTzw03zzUzzs07zzVzzk0Dzz1zzU0TzwE"
+Text.="|<>*200$41.Dzk0Tz0Tzk0zz0zzU1zz1zz03zz8"
+Text.="|<>*200$41.Dzk0DzkTzk0TzUzzU0zzY"
