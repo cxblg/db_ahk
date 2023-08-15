@@ -12,3 +12,4 @@ Text.="|<>*200$58.0Tw00Dzz001zs00zzs08"
 Text.="|<>*200$47.7zw01zzUTzw03zzUzzs07zzVzzk0Dzz1zzU0TzwE"
 Text.="|<>*200$41.Dzk0Tz0Tzk0zz0zzU1zz1zz03zz8"
 Text.="|<>*200$41.Dzk0DzkTzk0TzUzzU0zzY"
+; END
